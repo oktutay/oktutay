@@ -17,18 +17,19 @@
 
 - 🎓 Computer Science student at [**School of Information and Communication Technology, HUST**](https://soict.hust.edu.vn/en/).
 - 💼 Former **Web Pentester Intern** at [**VNPT Cyber Immunity**](https://sec.vnpt.vn/), with 1 year of hands-on experience in web security testing.
-- 🔬 I'm currently researching on the topic of **Computer Vision (CV)**.
-- 🌱 Interested in **AI Security**, **Healthcare AI** and their real-world applications.
+- 🔬 I'm currently researching on the topic of **AI Security**.
+- 🌱 Interested in **AI Crypto**, **Healthcare AI** and their real-world applications.
 - 📫 Feel free to reach out to me at: **anhtubibi@gmail.com**
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-| Category    | Title                                     | Organization                                | Link    |
-|-------------|-------------------------------------------|---------------------------------------------|---------|
-| **-**       | -                                         | -                                           |         |
-| **-**       | -                                         | -                                           |         |
+| Category    | Title                                                     | Organization                                | Link    |
+|-------------|-----------------------------------------------------------|---------------------------------------------|---------|
+| **1st**     | - Viettel AI Race 2026 - Track 1 - Round 1                | - Viettel AI Race                           |         |
+| **2nd**     | - Student Creative Ideas Challenge - SoICT 2026.1/2026.2  | - SoICT, HUST                               |         |
+| **3rd**     | - Student Creative Ideas Challenge - SoICT 2026.1/2026.2  | - SoICT, HUST                               |         |
 
 <div align="center">
   <i>Coming soon</i> 😀😀😀
