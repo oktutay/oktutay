@@ -25,11 +25,11 @@
 
 ### 🏆 Achievements & Certifications
 
-| Category    | Title                                                     | Organization                                | Link    |
-|-------------|-----------------------------------------------------------|---------------------------------------------|---------|
-| **1st**     | - Viettel AI Race 2026 - Track 1 - Round 1                | - Viettel AI Race                           |         |
-| **2nd**     | - Student Creative Ideas Challenge - SoICT 2026.1/2026.2  | - SoICT, HUST                               |         |
-| **3rd**     | - Student Creative Ideas Challenge - SoICT 2026.1/2026.2  | - SoICT, HUST                               |         |
+|    Category      |      Title                                                |    Organization                             |    Link   |
+|------------------|-----------------------------------------------------------|---------------------------------------------|-----------|
+| **1st - 🥇**     | - Viettel AI Race 2026 - Track 1 - Round 1                | - Viettel AI Race                           | CV Challenge |
+| **2nd - 🥈**     | - Student Creative Ideas Challenge - SoICT 2026.1/2026.2  | - SoICT, HUST                               | MalEvo & BAIStudio |
+| **3rd - 🥉**     | - Student Creative Ideas Challenge - SoICT 2025.2         | - SoICT, HUST                               | SimuGuard |
 
 <div align="center">
   <i>Coming soon</i> 😀😀😀
